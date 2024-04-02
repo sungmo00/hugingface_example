@@ -161,3 +161,6 @@ cython_debug/
 
 # pass
 .DS_Store
+
+
+encoder-decoder
